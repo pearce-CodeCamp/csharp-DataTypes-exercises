@@ -1,0 +1,12 @@
+D:\ALL CODING\C#-stuff\STLCC-CodeCamp\exercises\data-types-exercises\csharp-data-types-exercises\StringsBonus\bin\Debug\netcoreapp3.1\StringsBonus.exe
+D:\ALL CODING\C#-stuff\STLCC-CodeCamp\exercises\data-types-exercises\csharp-data-types-exercises\StringsBonus\bin\Debug\netcoreapp3.1\StringsBonus.deps.json
+D:\ALL CODING\C#-stuff\STLCC-CodeCamp\exercises\data-types-exercises\csharp-data-types-exercises\StringsBonus\bin\Debug\netcoreapp3.1\StringsBonus.runtimeconfig.json
+D:\ALL CODING\C#-stuff\STLCC-CodeCamp\exercises\data-types-exercises\csharp-data-types-exercises\StringsBonus\bin\Debug\netcoreapp3.1\StringsBonus.runtimeconfig.dev.json
+D:\ALL CODING\C#-stuff\STLCC-CodeCamp\exercises\data-types-exercises\csharp-data-types-exercises\StringsBonus\bin\Debug\netcoreapp3.1\StringsBonus.dll
+D:\ALL CODING\C#-stuff\STLCC-CodeCamp\exercises\data-types-exercises\csharp-data-types-exercises\StringsBonus\bin\Debug\netcoreapp3.1\StringsBonus.pdb
+D:\ALL CODING\C#-stuff\STLCC-CodeCamp\exercises\data-types-exercises\csharp-data-types-exercises\StringsBonus\obj\Debug\netcoreapp3.1\StringsBonus.AssemblyInfoInputs.cache
+D:\ALL CODING\C#-stuff\STLCC-CodeCamp\exercises\data-types-exercises\csharp-data-types-exercises\StringsBonus\obj\Debug\netcoreapp3.1\StringsBonus.AssemblyInfo.cs
+D:\ALL CODING\C#-stuff\STLCC-CodeCamp\exercises\data-types-exercises\csharp-data-types-exercises\StringsBonus\obj\Debug\netcoreapp3.1\StringsBonus.csproj.CoreCompileInputs.cache
+D:\ALL CODING\C#-stuff\STLCC-CodeCamp\exercises\data-types-exercises\csharp-data-types-exercises\StringsBonus\obj\Debug\netcoreapp3.1\StringsBonus.dll
+D:\ALL CODING\C#-stuff\STLCC-CodeCamp\exercises\data-types-exercises\csharp-data-types-exercises\StringsBonus\obj\Debug\netcoreapp3.1\StringsBonus.pdb
+D:\ALL CODING\C#-stuff\STLCC-CodeCamp\exercises\data-types-exercises\csharp-data-types-exercises\StringsBonus\obj\Debug\netcoreapp3.1\StringsBonus.genruntimeconfig.cache

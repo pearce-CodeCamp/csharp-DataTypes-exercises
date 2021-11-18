@@ -42,7 +42,7 @@ namespace StringsBonus
             // so, when passed foundIndex and term.Length, the Remove method
             // starts at index 10, and removes the next 9 characters*/
 
-            // JUST NEED TO COMMENT THESE 2 LINES HERE
+            // JUST NEED TO UNCOMMENT THESE 2 LINES HERE
            /* string newSentence = sentence.Remove(foundIndex, term.Length);
             Console.WriteLine(newSentence);*/
 

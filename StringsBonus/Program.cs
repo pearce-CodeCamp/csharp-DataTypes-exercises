@@ -21,18 +21,29 @@ namespace StringsBonus
             string lowerSentence = sentence.ToLower();
             Console.WriteLine("Enter a term to remove it from the sentence:");
             string term = Console.ReadLine().ToLower();
+
+            // other solution using Replace instead of Remove
+            // no need for foundIndex or the term length
+            // replaces the term in the sentence with an empty string
+            string newSentenceReplace = sentence.Replace(term, "");
+            Console.WriteLine(newSentenceReplace);
+
+            // commented out the original solution below
+
             // find index of term in sentence
-            int foundIndex = lowerSentence.IndexOf(term);
-            Console.WriteLine($"Term: '{term}', Index: {foundIndex}, Length: {term.Length}");
-            // remove the term from the sentence using its index and its length
-            // store the new sentence with the removed term as a variable and print it
+            /*int foundIndex = lowerSentence.IndexOf(term);
+            Console.WriteLine($"Term: '{term}', Index: {foundIndex}, Length: {term.Length}");*/
+            //remove the term from the sentence using its index and its length
+            //store the new sentence with the removed term as a variable and print it
             // The Remove needs a start and end index value, and it removes all characters between
             // these 2 indexes
             // ie if term is 'beginning', foundIndex is 10 and length is 9
-            // so, when passed foundIndex and term.Length, the Remove method 
-            // starts at index 10, and removes the next 9 characters
-            string newSentence = sentence.Remove(foundIndex, term.Length);
-            Console.WriteLine(newSentence);
+            // so, when passed foundIndex and term.Length, the Remove method
+            // starts at index 10, and removes the next 9 characters*/
+           /* string newSentence = sentence.Remove(foundIndex, term.Length);
+            Console.WriteLine(newSentence);*/
+
+
         }
     }
 }
